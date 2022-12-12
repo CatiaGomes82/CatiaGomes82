@@ -1,7 +1,8 @@
 # Hi there 👋 I'm Catia!
 🇵🇹 Front End Developer based in London 🇬🇧
 
-- 👩‍💻 Currently the Head of Front End Development at [Codehouse](https://www.codehousegroup.com/) <img src="https://www.codehousegroup.com/Images/favicon.png" alt="drawing" width="14"/> 
+- 👩‍💻 Currently Engineering Manager at Rightmove
+- Previously, Head of Front End Development at [Codehouse](https://www.codehousegroup.com/) <img src="https://www.codehousegroup.com/Images/favicon.png" alt="drawing" width="14"/> 
 
 <br>
 
